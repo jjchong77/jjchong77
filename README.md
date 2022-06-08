@@ -1,4 +1,4 @@
-- 👋 Hello, this is the github account for Jeremy Chong.
+Hello, this is the github account for Jeremy Chong.
 
 I've recently completed my Bachelor's degree in Computer Science, and am eager to get into the work force.
 
