@@ -1,7 +1,5 @@
 Hello, this is the github account for Jeremy Chong.
 
-I've recently completed my Bachelor's degree in Computer Science, and am eager to get into the work force. I've recently gotten the IBM data analyst certification, as well as the Microsoft Azure AZ-900 certification.
+I'm currently studying AI and ML at Seneca Polytechnic, and am eager to put those skills to use as I get into the field. I've also obtained an IBM data analyst certification,the Microsoft Azure AZ-900 certification, and have also completed a Bachelor's degree in Computer Science. 
 
-I’m currently reviewing and polishing my skills in popular languages like Java and Javascript. 
-
-You can reach me at jjc4bz@gmail.com.
+You can reach me at jjc4bz@gmail.com, or jchong37@myseneca.ca.
